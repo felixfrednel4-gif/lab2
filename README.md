@@ -6,3 +6,4 @@
 - [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x] Push your progress to GitHub!
+![ezgif-555d74b4ac0d090d](https://github.com/user-attachments/assets/4a76cf45-4541-473f-935c-279a3e62602a)
